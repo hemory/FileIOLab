@@ -1,0 +1,11 @@
+C:\Users\hphifer\source\repos\FileIO_Lab\FileIO_Lab\bin\Debug\netcoreapp2.1\FileIO_Lab.deps.json
+C:\Users\hphifer\source\repos\FileIO_Lab\FileIO_Lab\bin\Debug\netcoreapp2.1\FileIO_Lab.runtimeconfig.json
+C:\Users\hphifer\source\repos\FileIO_Lab\FileIO_Lab\bin\Debug\netcoreapp2.1\FileIO_Lab.runtimeconfig.dev.json
+C:\Users\hphifer\source\repos\FileIO_Lab\FileIO_Lab\bin\Debug\netcoreapp2.1\FileIO_Lab.dll
+C:\Users\hphifer\source\repos\FileIO_Lab\FileIO_Lab\bin\Debug\netcoreapp2.1\FileIO_Lab.pdb
+C:\Users\hphifer\source\repos\FileIO_Lab\FileIO_Lab\obj\Debug\netcoreapp2.1\FileIO_Lab.csprojAssemblyReference.cache
+C:\Users\hphifer\source\repos\FileIO_Lab\FileIO_Lab\obj\Debug\netcoreapp2.1\FileIO_Lab.csproj.CoreCompileInputs.cache
+C:\Users\hphifer\source\repos\FileIO_Lab\FileIO_Lab\obj\Debug\netcoreapp2.1\FileIO_Lab.AssemblyInfoInputs.cache
+C:\Users\hphifer\source\repos\FileIO_Lab\FileIO_Lab\obj\Debug\netcoreapp2.1\FileIO_Lab.AssemblyInfo.cs
+C:\Users\hphifer\source\repos\FileIO_Lab\FileIO_Lab\obj\Debug\netcoreapp2.1\FileIO_Lab.dll
+C:\Users\hphifer\source\repos\FileIO_Lab\FileIO_Lab\obj\Debug\netcoreapp2.1\FileIO_Lab.pdb
