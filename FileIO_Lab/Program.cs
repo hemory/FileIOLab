@@ -52,7 +52,7 @@ namespace FileIO_Lab
 
                 foreach (string formattedLine in textArray)
                 {
-                    Console.Write($" {formattedLine}");
+                    Console.Write($"{formattedLine} ");
                 }
             }
         }
